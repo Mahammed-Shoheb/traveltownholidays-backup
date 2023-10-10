@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.traveltownholidays.com/sitemap.xml
+Sitemap: https://traveltownholidays.com/sitemap.xml
+Sitemap: http://www.traveltownholidays.com/sitemap.xml
+Sitemap: http://traveltownholidays.com/sitemap.xml
